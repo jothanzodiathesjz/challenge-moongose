@@ -1,0 +1,24 @@
+{
+  "name": "tugasjs-enricho",
+  "version": "1.0.0",
+  "description": "belajar node js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "saya",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "mongodb": "^4.7.0",
+    "mongoose": "^6.4.4",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.16"
+  }
+}
